@@ -1,2 +1,2 @@
 # jenkinsBasic
-show triggering by github
+show triggering by github.
